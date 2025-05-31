@@ -11,7 +11,7 @@ body {
     transition: background-color 0.5s ease;
     position: relative;
     overflow-x: hidden;
-    width: 120%;
+    width: 100%;
     margin: auto;
 }
 
@@ -569,7 +569,7 @@ h1 {
     }
 
     body {
-        width: 140%;
+        width: 100%;
         margin: auto;
     }
 }
