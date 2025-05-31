@@ -24,6 +24,8 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 .products-container {
